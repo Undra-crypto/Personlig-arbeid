@@ -1,0 +1,6 @@
+betaling_id,kunde_id,belop,betalingsdato,betalingsmetode
+201,1,450.0,2024-02-01,Kort
+202,1,120.5,2024-02-15,Vipps
+203,2,980.0,2024-03-01,Faktura
+204,3,275.75,2024-03-10,Kort
+205,4,60.0,2024-03-22,Vipps
